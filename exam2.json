@@ -1,0 +1,52 @@
+{
+    "CS101": {
+        "Room": "CSB 3004",
+        "Instructor": "Henry Haynes",
+        "Start Time": "MWF 8:00AM"
+    },
+    "CS102": {
+        "Room": "CSB 4501",
+        "Instructor": "Richard Alvardo",
+        "Start Time": "MWF 9:00AM"
+    },
+    "CS103": {
+        "Room": "CSB 6755",
+        "Instructor": "I. M. Rich",
+        "Start Time": "MWF 10:00AM"
+    },
+    "CIS2324": {
+        "Room": "MCOY 332",
+        "Instructor": "Sam Lee",
+        "Start Time": "TR 9:30AM"
+    },
+    "CIS3325": {
+        "Room": "MCOY 332",
+        "Instructor": "Jim Keefe",
+        "Start Time": "TR 2:00PM"
+    },
+    "CIS5357": {
+        "Room": "MCOY 224",
+        "Instructor": "M. Mehta",
+        "Start Time": "T 6:30PM"
+    },
+    "NT110": {
+        "Room": "Alk 1244",
+        "Instructor": "Charles Burke",
+        "Start Time": "MWF 11:00AM"
+    },
+    "CM241": {
+        "Room": "ALK 1411",
+        "Instructor": "Vicki Lees",
+        "Start Time": "TR 1:00PM"
+    },
+    "QM2333": {
+        "Room": "MCOY 222",
+        "Instructor": "Jennifer Masters",
+        "Start Time": "TR 12:30PM"
+    },
+    "QM5336": {
+        "Room": "MCOY 319",
+        "Instructor": "M. Musal",
+        "Start Time": "W 6:30PM"
+    }
+}

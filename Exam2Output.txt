@@ -1,0 +1,27 @@
+Course		Room Num		Start Time		Instructor
+------		--------		----------		----------
+CS101		CSB 3004		     MWF 8:00AM		Henry Haynes
+CS102		CSB 4501		     MWF 9:00AM		Richard Alvardo
+CS103		CSB 6755		    MWF 10:00AM		I. M. Rich
+NT110		Alk 1244		    MWF 11:00AM		Charles Burke
+CM241		ALK 1411		      TR 1:00PM		Vicki Lees
+CIS1323		 Course is not scheduled to be offered this semester.
+CIS2324		MCOY 332		      TR 9:30AM		Sam Lee
+CIS3325		MCOY 332		      TR 2:00PM		Jim Keefe
+CIS3389		 Course is not scheduled to be offered this semester.
+CIS5357		MCOY 224		       T 6:30PM		M. Mehta
+CIS3391		 Course is not scheduled to be offered this semester.
+CIS3392		 Course is not scheduled to be offered this semester.
+QM2333		MCOY 222		     TR 12:30PM		Jennifer Masters
+QM3339		 Course is not scheduled to be offered this semester.
+QM5335		 Course is not scheduled to be offered this semester.
+QM5336		MCOY 319		       W 6:30PM		M. Musal
+FIN3312		 Course is not scheduled to be offered this semester.
+FIN4335		 Course is not scheduled to be offered this semester.
+
+
+Total Number of Courses Available:	18
+Total Number of Courses Scheduled:	10
+Total Number of Courses Not Scheduled:	8
+
+Program completed successfully.
